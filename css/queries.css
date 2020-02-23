@@ -345,12 +345,3 @@
         padding-top: 20px;
     }
 }
-
-@media screen and (max-width: 600px) {
-
-  /* USE THESE CLASSES TO SHOW CONTENT ON MOBILE */
- .mobile-show {
-    display: none !important;
- }
-
-}
